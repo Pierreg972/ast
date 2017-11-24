@@ -1,0 +1,17 @@
+{
+  "name": "ast_project_2017",
+  "description": "simple project for ECE AST class",
+  "version": "0.0.1",
+  "scripts": {
+     "start": "bash bin/start",
+     "test": "bash bin/test tests/*"
+ },
+  "dependencies": {
+    "gulp": 1,
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "should": "^13.1.1"
+  }
+}
